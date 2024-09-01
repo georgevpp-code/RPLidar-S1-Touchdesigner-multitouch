@@ -1,0 +1,17 @@
+2023-08-01 Beta 1.2.1
+
+Release TUIO cursor options to user
+
+2023-08-18 Beta 1.2.2
+
+Release filter options to user
+
+2023-08-22 Beta 1.2.3
+
+Add switch for filter 
+
+2024-03-20 Beta 1.2.4
+
+Improve object recognization
+Remove merging option
+Add slope option for splitted beam filtering.
